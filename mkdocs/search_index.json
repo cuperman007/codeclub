@@ -2,23 +2,68 @@
     "docs": [
         {
             "location": "/", 
-            "text": "Welcome to MkDocs\n\n\nFor full documentation visit \nmkdocs.org\n.\n\n\nCommands\n\n\n\n\nmkdocs new [dir-name]\n - Create a new project.\n\n\nmkdocs serve\n - Start the live-reloading docs server.\n\n\nmkdocs build\n - Build the documentation site.\n\n\nmkdocs help\n - Print this help message.\n\n\n\n\nProject layout\n\n\nmkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.", 
+            "text": "Marshbrook Codeclub\n\n\nSo much to look at. Where to start?\n\n\n\n\n\n\nLearn\n\n\n\n\nHour of code\n\n\nTinkercad\n\n\n\n\n\n\n\n\nVolunteer\n\n\n\n\nSTEMNET\n\n\nCodeclub", 
             "title": "Home"
         }, 
         {
-            "location": "/#welcome-to-mkdocs", 
-            "text": "For full documentation visit  mkdocs.org .", 
-            "title": "Welcome to MkDocs"
+            "location": "/#marshbrook-codeclub", 
+            "text": "So much to look at. Where to start?    Learn   Hour of code  Tinkercad     Volunteer   STEMNET  Codeclub", 
+            "title": "Marshbrook Codeclub"
         }, 
         {
-            "location": "/#commands", 
-            "text": "mkdocs new [dir-name]  - Create a new project.  mkdocs serve  - Start the live-reloading docs server.  mkdocs build  - Build the documentation site.  mkdocs help  - Print this help message.", 
-            "title": "Commands"
+            "location": "/learn/learn/", 
+            "text": "Learning STEM\n\n\nScience\n\n\nSorry, nothing here yet.\n\n\nTechnology\n\n\nLearn computing and programming\n\n\n\n\nHour of code\n\n\n\n\nEngineering\n\n\nSo much to learn! \n\n\n\n\nCAD - design stuff\n\n\nTinkercad\n\n\nFusion360\n\n\n\n\n\n\n3D Printing - once you've designed something, its time to make it.\n\n\n\n\nMaths\n\n\nThis is the most important part. It is the basis of everything... that said, there is still nothing here yet!", 
+            "title": "Learn"
         }, 
         {
-            "location": "/#project-layout", 
-            "text": "mkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.", 
-            "title": "Project layout"
+            "location": "/learn/learn/#learning-stem", 
+            "text": "", 
+            "title": "Learning STEM"
+        }, 
+        {
+            "location": "/learn/learn/#science", 
+            "text": "Sorry, nothing here yet.", 
+            "title": "Science"
+        }, 
+        {
+            "location": "/learn/learn/#technology", 
+            "text": "Learn computing and programming   Hour of code", 
+            "title": "Technology"
+        }, 
+        {
+            "location": "/learn/learn/#engineering", 
+            "text": "So much to learn!    CAD - design stuff  Tinkercad  Fusion360    3D Printing - once you've designed something, its time to make it.", 
+            "title": "Engineering"
+        }, 
+        {
+            "location": "/learn/learn/#maths", 
+            "text": "This is the most important part. It is the basis of everything... that said, there is still nothing here yet!", 
+            "title": "Maths"
+        }, 
+        {
+            "location": "/learn/hour-of-code/", 
+            "text": "Hour of code\n\n\nThe hour of code is a hub for numerous coding games and projects. The choice of tutorials is hugely varied and there are options available for all ages, abilities and programming languages.\n\n\nGet started here: \nhttps://code.org/learn", 
+            "title": "Hour of code"
+        }, 
+        {
+            "location": "/learn/hour-of-code/#hour-of-code", 
+            "text": "The hour of code is a hub for numerous coding games and projects. The choice of tutorials is hugely varied and there are options available for all ages, abilities and programming languages.  Get started here:  https://code.org/learn", 
+            "title": "Hour of code"
+        }, 
+        {
+            "location": "/learn/tinkercad/", 
+            "text": "", 
+            "title": "Tinkercad"
+        }, 
+        {
+            "location": "/volunteer/volunteer/", 
+            "text": "Volunteer\n\n\nOur code club, and indeed all code clubs always need volunteers. \n\n\nSo, if you want to help please step up :-)", 
+            "title": "Volunteer"
+        }, 
+        {
+            "location": "/volunteer/volunteer/#volunteer", 
+            "text": "Our code club, and indeed all code clubs always need volunteers.   So, if you want to help please step up :-)", 
+            "title": "Volunteer"
         }
     ]
 }
