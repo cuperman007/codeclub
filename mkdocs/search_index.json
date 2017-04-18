@@ -52,7 +52,7 @@
         }, 
         {
             "location": "/learn/tinkercad/", 
-            "text": "Tinkercad\n\n\nTinkercad is a computer program used to create 3D models for computer games or printing.\n\n\nLearn\n\n\nThe following tutorials will help you learn how to use Tinkercad.\n\n\n\n\nOpen Tinkercad and login\n\n\n\n\nBeginner tutorials\n\n\n\n\nCreate a house\n\n\nCreate a car (coming soon)\n\n\nCreate a minion (coming soon)\n\n\n\n\nHow-to\n\n\n\n\nAdd shapes to my design\n\n\nResize shapes", 
+            "text": "Tinkercad\n\n\nTinkercad is a computer program used to create 3D models for computer games or printing.\n\n\nLearn\n\n\nThe following tutorials will help you learn how to use Tinkercad.\n\n\n\n\nOpen Tinkercad and \nsign up\n for an account.\n\n\nOpen Tinkercad and \nsign in\n\n\n\n\nBeginner tutorials\n\n\n\n\nCreate a house\n\n\nCreate a car (coming soon)\n\n\nCreate a minion (coming soon)\n\n\n\n\nHow-to\n\n\n\n\nAdd shapes to my design\n\n\nZoom in and out shapes\n\n\nRotate and pan\n\n\nResize shapes\n\n\nMove shapes", 
             "title": "Tinkercad"
         }, 
         {
@@ -62,7 +62,7 @@
         }, 
         {
             "location": "/learn/tinkercad/#learn", 
-            "text": "The following tutorials will help you learn how to use Tinkercad.   Open Tinkercad and login", 
+            "text": "The following tutorials will help you learn how to use Tinkercad.   Open Tinkercad and  sign up  for an account.  Open Tinkercad and  sign in", 
             "title": "Learn"
         }, 
         {
@@ -72,12 +72,32 @@
         }, 
         {
             "location": "/learn/tinkercad/#how-to", 
-            "text": "Add shapes to my design  Resize shapes", 
+            "text": "Add shapes to my design  Zoom in and out shapes  Rotate and pan  Resize shapes  Move shapes", 
             "title": "How-to"
         }, 
         {
+            "location": "/learn/tinkercad/tutorials/setup/register-and-login/", 
+            "text": "Register and login\n\n\nSign-up\n\n\nTo use TinkerCad you have to have a login.  To register for Tinkercad:\n\n\n\n\nOpen the \nTinkerCad\n website.\n\n\nClick on the \nSign up\n button at the top right of the website.\n\n\n...\n\n\n\n\nSign-in\n\n\nWhen you have registered you can login to Tinkercad:\n\n\n\n\nOpen the \nTinkerCad\n website.\n\n\nClick the \nLogin\n link at the top right of the website.\n\n\nEnter your \nusername\n and \npassword\n.\n\n\nClick the \nLogin\n button.", 
+            "title": "Register / login"
+        }, 
+        {
+            "location": "/learn/tinkercad/tutorials/setup/register-and-login/#register-and-login", 
+            "text": "", 
+            "title": "Register and login"
+        }, 
+        {
+            "location": "/learn/tinkercad/tutorials/setup/register-and-login/#sign-up", 
+            "text": "To use TinkerCad you have to have a login.  To register for Tinkercad:   Open the  TinkerCad  website.  Click on the  Sign up  button at the top right of the website.  ...", 
+            "title": "Sign-up"
+        }, 
+        {
+            "location": "/learn/tinkercad/tutorials/setup/register-and-login/#sign-in", 
+            "text": "When you have registered you can login to Tinkercad:   Open the  TinkerCad  website.  Click the  Login  link at the top right of the website.  Enter your  username  and  password .  Click the  Login  button.", 
+            "title": "Sign-in"
+        }, 
+        {
             "location": "/learn/tinkercad/tutorials/beginner/1-create-a-house/", 
-            "text": "Create a house\n\n\nIn this tutorial you will use simple shapes to create a 3D house.\n\n\n1. Login\n\n\nOpen Tinkercad and login", 
+            "text": "Create a house\n\n\nIn this tutorial you will use simple shapes to create a 3D house.\n\n\nLogin\n\n\nOpen the \nTinkercad\n website and \nsign-in\n\n\nAdd shapes\n\n\n\n\nAdd a \nbox\n anywhere on your workplane.\n\n\n\n\nResize\n the box to the following dimensions:\n\n\n\n\nLength = \n25mm\n\n\nWidth = \n40mm\n\n\nHeight = \n30mm\n\n\n\n\n\n\n\n\n\n\nAdd a \nroof\n anywhere on your workplane.\n\n\n\n\n\n\nResize\n the roof to the following dimensions:\n\n\n\n\nLength = \n25mm\n\n\nWidth = \n40mm\n\n\nHeight = \n20mm\n\n\n\n\n\n\n\n\n\n\nAlign shapes\n\n\n\n\n\n\nAlign\n the front of the roof with the front of the box\n\n\n\n\n\n\n\n\nAlign\n the center of the roof with the center of the box\n\n\n\n\n\n\n\n\nMove roof up\n\n\n\n\nSelect the roof\n\n\n\n\nUsing the top grab arrow \nmove\n the roof up by \n30mm\n\n\n\n\n\n\n\n\nYour model is starting to look like a house already :-)\n\n\nAdd a doors", 
             "title": "Create a house"
         }, 
         {
@@ -86,44 +106,139 @@
             "title": "Create a house"
         }, 
         {
-            "location": "/learn/tinkercad/tutorials/beginner/1-create-a-house/#1-login", 
-            "text": "Open Tinkercad and login", 
-            "title": "1. Login"
+            "location": "/learn/tinkercad/tutorials/beginner/1-create-a-house/#login", 
+            "text": "Open the  Tinkercad  website and  sign-in", 
+            "title": "Login"
+        }, 
+        {
+            "location": "/learn/tinkercad/tutorials/beginner/1-create-a-house/#add-shapes", 
+            "text": "Add a  box  anywhere on your workplane.   Resize  the box to the following dimensions:   Length =  25mm  Width =  40mm  Height =  30mm      Add a  roof  anywhere on your workplane.    Resize  the roof to the following dimensions:   Length =  25mm  Width =  40mm  Height =  20mm", 
+            "title": "Add shapes"
+        }, 
+        {
+            "location": "/learn/tinkercad/tutorials/beginner/1-create-a-house/#align-shapes", 
+            "text": "Align  the front of the roof with the front of the box     Align  the center of the roof with the center of the box", 
+            "title": "Align shapes"
+        }, 
+        {
+            "location": "/learn/tinkercad/tutorials/beginner/1-create-a-house/#move-roof-up", 
+            "text": "Select the roof   Using the top grab arrow  move  the roof up by  30mm     Your model is starting to look like a house already :-)", 
+            "title": "Move roof up"
+        }, 
+        {
+            "location": "/learn/tinkercad/tutorials/beginner/1-create-a-house/#add-a-doors", 
+            "text": "", 
+            "title": "Add a doors"
         }, 
         {
             "location": "/learn/tinkercad/how-to/add-shapes/", 
-            "text": "Adding shapes\n\n\nA variety of shapes can be added to  your design\n\n\n\n\nFind the required shape in the \nBasic shapes\n menu.\n\n\nDrag the shape from the menu to the workplane.", 
+            "text": "Adding shapes\n\n\nA variety of shapes can be added to  your design\n\n\n\n\nFind the required shape in the \nBasic shapes\n menu.\n\n\nDrag the shape from the menu to the workplane.\n\n\nThe shape will be positioned on the workplane.", 
             "title": "Add shapes"
         }, 
         {
             "location": "/learn/tinkercad/how-to/add-shapes/#adding-shapes", 
-            "text": "A variety of shapes can be added to  your design   Find the required shape in the  Basic shapes  menu.  Drag the shape from the menu to the workplane.", 
+            "text": "A variety of shapes can be added to  your design   Find the required shape in the  Basic shapes  menu.  Drag the shape from the menu to the workplane.  The shape will be positioned on the workplane.", 
             "title": "Adding shapes"
         }, 
         {
-            "location": "/learn/tinkercad/how-to/resize/", 
+            "location": "/learn/tinkercad/how-to/zoom-in-and-out/", 
+            "text": "Zoom in and out\n\n\nWhen you want to change the size of your design in the view space you will need to \nzoom in\n or \nzoom out\n.\n\n\nZoom in\n\n\nWhen you want to view your design a bit closer you'll need to \nzoom in\n. When you zoom in you will see more details, but you might not see everything at once.\n\n\nZoom out\n\n\nWhen you want to view more of your design you'll need to \nzoom out\n. When you zoom out you will see less of your designs details, but you will see more design at one time. \n\n\nFit all in view\n\n\nYou can use the \nFit all in view\n command to automatically zoom in or out to fit your whole model on the screen.", 
+            "title": "Zoom in / out"
+        }, 
+        {
+            "location": "/learn/tinkercad/how-to/zoom-in-and-out/#zoom-in-and-out", 
+            "text": "When you want to change the size of your design in the view space you will need to  zoom in  or  zoom out .", 
+            "title": "Zoom in and out"
+        }, 
+        {
+            "location": "/learn/tinkercad/how-to/zoom-in-and-out/#zoom-in", 
+            "text": "When you want to view your design a bit closer you'll need to  zoom in . When you zoom in you will see more details, but you might not see everything at once.", 
+            "title": "Zoom in"
+        }, 
+        {
+            "location": "/learn/tinkercad/how-to/zoom-in-and-out/#zoom-out", 
+            "text": "When you want to view more of your design you'll need to  zoom out . When you zoom out you will see less of your designs details, but you will see more design at one time.", 
+            "title": "Zoom out"
+        }, 
+        {
+            "location": "/learn/tinkercad/how-to/zoom-in-and-out/#fit-all-in-view", 
+            "text": "You can use the  Fit all in view  command to automatically zoom in or out to fit your whole model on the screen.", 
+            "title": "Fit all in view"
+        }, 
+        {
+            "location": "/learn/tinkercad/how-to/rotate-and-pan/", 
+            "text": "Rotate and pan\n\n\nWhen you want to change the way that you are looking at your design you'll need to use the \nrotate\n or \npan\n commands.\n\n\nRotate\n\n\nWhen you want to see a different side of your design use the rotate option. There are various different ways to rotate your design:\n\n\n\n\nUse the view cube.\n\n\nMouse click + drag.\n\n\n\n\nPan\n\n\nWhen you want to see a different part of your design, but don't want to \nrotate\n you can use the \nPan\n command. There are various different ways to pan your design:\n\n\n\n\nUse the pan command.\n\n\nMouse click + drag.", 
+            "title": "Rotate and pan"
+        }, 
+        {
+            "location": "/learn/tinkercad/how-to/rotate-and-pan/#rotate-and-pan", 
+            "text": "When you want to change the way that you are looking at your design you'll need to use the  rotate  or  pan  commands.", 
+            "title": "Rotate and pan"
+        }, 
+        {
+            "location": "/learn/tinkercad/how-to/rotate-and-pan/#rotate", 
+            "text": "When you want to see a different side of your design use the rotate option. There are various different ways to rotate your design:   Use the view cube.  Mouse click + drag.", 
+            "title": "Rotate"
+        }, 
+        {
+            "location": "/learn/tinkercad/how-to/rotate-and-pan/#pan", 
+            "text": "When you want to see a different part of your design, but don't want to  rotate  you can use the  Pan  command. There are various different ways to pan your design:   Use the pan command.  Mouse click + drag.", 
+            "title": "Pan"
+        }, 
+        {
+            "location": "/learn/tinkercad/how-to/resize-shapes/", 
             "text": "Resizing shapes\n\n\nShapes can be resized in three ways:\n\n\nResizing with shape menu\n\n\n\n\nSelect an object; the shape menu will appear.\n\n\nSelect the dimension you want to edit.\n\n\nEnter the required value and hit the [Enter] key.\n\n\nThe shape will change size on screen.\n\n\n\n\n\n\nResizing wth shape handles\n\n\n\n\nSelect an object; the handles will appear.\n\n\nSelect a handle beside a side or point with the dimension you want to change.\n\n\nSelect a dimension to change.\n\n\nEnter the required value and hit the [Enter] key.\n\n\nThe shape will change size on screen.\n\n\n\n\n\n\nResizing by dragging\n\n\n\n\nSelect an object; the handles will appear.\n\n\nSelect a handle beside a side or point with the dimension you want to change.\n\n\nSelect a dimension to change.\n\n\nEnter the required value and hit the [Enter] key.\n\n\nThe shape will change size on screen.", 
             "title": "Resize shapes"
         }, 
         {
-            "location": "/learn/tinkercad/how-to/resize/#resizing-shapes", 
+            "location": "/learn/tinkercad/how-to/resize-shapes/#resizing-shapes", 
             "text": "Shapes can be resized in three ways:", 
             "title": "Resizing shapes"
         }, 
         {
-            "location": "/learn/tinkercad/how-to/resize/#resizing-with-shape-menu", 
+            "location": "/learn/tinkercad/how-to/resize-shapes/#resizing-with-shape-menu", 
             "text": "Select an object; the shape menu will appear.  Select the dimension you want to edit.  Enter the required value and hit the [Enter] key.  The shape will change size on screen.", 
             "title": "Resizing with shape menu"
         }, 
         {
-            "location": "/learn/tinkercad/how-to/resize/#resizing-wth-shape-handles", 
+            "location": "/learn/tinkercad/how-to/resize-shapes/#resizing-wth-shape-handles", 
             "text": "Select an object; the handles will appear.  Select a handle beside a side or point with the dimension you want to change.  Select a dimension to change.  Enter the required value and hit the [Enter] key.  The shape will change size on screen.", 
             "title": "Resizing wth shape handles"
         }, 
         {
-            "location": "/learn/tinkercad/how-to/resize/#resizing-by-dragging", 
+            "location": "/learn/tinkercad/how-to/resize-shapes/#resizing-by-dragging", 
             "text": "Select an object; the handles will appear.  Select a handle beside a side or point with the dimension you want to change.  Select a dimension to change.  Enter the required value and hit the [Enter] key.  The shape will change size on screen.", 
             "title": "Resizing by dragging"
+        }, 
+        {
+            "location": "/learn/tinkercad/how-to/move-shapes/", 
+            "text": "Aligning shapes\n\n\nAfter dropping your shape on to the workplane you can move it to a different location using the move tool.\n\n\nShapes can be moved in a number of different directions:\n\n\n\n\nLeft and right (x-axis)\n\n\nForwards and backwards (y-axis)\n\n\nUp and down (z-axis)\n\n\n\n\nArrow keys\n\n\n\n\nAdd a shape\n to your workplane.\n\n\nSelect the shape.\n\n\nUse the arrow keys to move the shape\n\n\nUp / down arrow - to move the shape forwards and backwards.\n\n\nLeft / right arrow - to move the shape left and right.\n\n\nCTRL + up/down arrow - to move the shape up and down.\n\n\n\n\n\n\n\n\n\n\nClick and drag\n\n\n\n\nAdd a shape\n to your workplane.\n\n\nSelect the shape.\n\n\nClick and drag the shape.\n\n\nUse the arrow handle to move the shape up and down.\n\n\nType a value into the dimension box if needed.", 
+            "title": "Move shapes"
+        }, 
+        {
+            "location": "/learn/tinkercad/how-to/move-shapes/#aligning-shapes", 
+            "text": "After dropping your shape on to the workplane you can move it to a different location using the move tool.  Shapes can be moved in a number of different directions:   Left and right (x-axis)  Forwards and backwards (y-axis)  Up and down (z-axis)", 
+            "title": "Aligning shapes"
+        }, 
+        {
+            "location": "/learn/tinkercad/how-to/move-shapes/#arrow-keys", 
+            "text": "Add a shape  to your workplane.  Select the shape.  Use the arrow keys to move the shape  Up / down arrow - to move the shape forwards and backwards.  Left / right arrow - to move the shape left and right.  CTRL + up/down arrow - to move the shape up and down.", 
+            "title": "Arrow keys"
+        }, 
+        {
+            "location": "/learn/tinkercad/how-to/move-shapes/#click-and-drag", 
+            "text": "Add a shape  to your workplane.  Select the shape.  Click and drag the shape.  Use the arrow handle to move the shape up and down.  Type a value into the dimension box if needed.", 
+            "title": "Click and drag"
+        }, 
+        {
+            "location": "/learn/tinkercad/how-to/align-shapes/", 
+            "text": "Aligning shapes\n\n\nWhen you have more than one shape in your workspace you might need to align them.\n\n\nShapes can be aligned in a number of different ways:\n\n\n\n\nLeft to right\n\n\nTop to bottom\n\n\nBack to front\n\n\n\n\netc\n\n\n\n\n\n\nAdd two shapes to your workplane.\n\n\n\n\nShift select both shapes.\n\n\nSelect the \nAlign\n tool.\n\n\n\n\nHelper controls will appear on each shape. These controls will help you to align your shapes\n\n\n\n\n\n\nSelect alignment guides on each shape to align your shapes in different ways.\n\n\nUse the \nundo\n tool to step back to try different alignments.", 
+            "title": "Align shapes"
+        }, 
+        {
+            "location": "/learn/tinkercad/how-to/align-shapes/#aligning-shapes", 
+            "text": "When you have more than one shape in your workspace you might need to align them.  Shapes can be aligned in a number of different ways:   Left to right  Top to bottom  Back to front   etc    Add two shapes to your workplane.   Shift select both shapes.  Select the  Align  tool.   Helper controls will appear on each shape. These controls will help you to align your shapes    Select alignment guides on each shape to align your shapes in different ways.  Use the  undo  tool to step back to try different alignments.", 
+            "title": "Aligning shapes"
         }, 
         {
             "location": "/volunteer/volunteer/", 
