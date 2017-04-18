@@ -2,13 +2,13 @@
     "docs": [
         {
             "location": "/", 
-            "text": "Marshbrook Codeclub\n\n\nSo much to look at. Where to start?\n\n\n\n\n\n\nLearn\n\n\n\n\nHour of code\n\n\nTinkercad\n\n\n\n\n\n\n\n\nVolunteer\n\n\n\n\nSTEMNET\n\n\nCodeclub", 
+            "text": "Penkridge Codeclub\n\n\nPenkridge Codeclub is a registered with \nCodeclub UK\n and currently runs as an afterschool club at Marshbrook first school. The club promotes the learning of STEM subjects.\n\n\nSTEM stands for Science, Technology, Engineering and Maths.\n\n\n\n\n\n\nLearn\n\n\n\n\nHour of code\n\n\nTinkercad\n\n\n\n\n\n\n\n\nVolunteer\n\n\n\n\nSTEMNET\n\n\nCodeclub", 
             "title": "Home"
         }, 
         {
-            "location": "/#marshbrook-codeclub", 
-            "text": "So much to look at. Where to start?    Learn   Hour of code  Tinkercad     Volunteer   STEMNET  Codeclub", 
-            "title": "Marshbrook Codeclub"
+            "location": "/#penkridge-codeclub", 
+            "text": "Penkridge Codeclub is a registered with  Codeclub UK  and currently runs as an afterschool club at Marshbrook first school. The club promotes the learning of STEM subjects.  STEM stands for Science, Technology, Engineering and Maths.    Learn   Hour of code  Tinkercad     Volunteer   STEMNET  Codeclub", 
+            "title": "Penkridge Codeclub"
         }, 
         {
             "location": "/learn/learn/", 
@@ -52,8 +52,78 @@
         }, 
         {
             "location": "/learn/tinkercad/", 
-            "text": "", 
+            "text": "Tinkercad\n\n\nTinkercad is a computer program used to create 3D models for computer games or printing.\n\n\nLearn\n\n\nThe following tutorials will help you learn how to use Tinkercad.\n\n\n\n\nOpen Tinkercad and login\n\n\n\n\nBeginner tutorials\n\n\n\n\nCreate a house\n\n\nCreate a car (coming soon)\n\n\nCreate a minion (coming soon)\n\n\n\n\nHow-to\n\n\n\n\nAdd shapes to my design\n\n\nResize shapes", 
             "title": "Tinkercad"
+        }, 
+        {
+            "location": "/learn/tinkercad/#tinkercad", 
+            "text": "Tinkercad is a computer program used to create 3D models for computer games or printing.", 
+            "title": "Tinkercad"
+        }, 
+        {
+            "location": "/learn/tinkercad/#learn", 
+            "text": "The following tutorials will help you learn how to use Tinkercad.   Open Tinkercad and login", 
+            "title": "Learn"
+        }, 
+        {
+            "location": "/learn/tinkercad/#beginner-tutorials", 
+            "text": "Create a house  Create a car (coming soon)  Create a minion (coming soon)", 
+            "title": "Beginner tutorials"
+        }, 
+        {
+            "location": "/learn/tinkercad/#how-to", 
+            "text": "Add shapes to my design  Resize shapes", 
+            "title": "How-to"
+        }, 
+        {
+            "location": "/learn/tinkercad/tutorials/beginner/1-create-a-house/", 
+            "text": "Create a house\n\n\nIn this tutorial you will use simple shapes to create a 3D house.\n\n\n1. Login\n\n\nOpen Tinkercad and login", 
+            "title": "Create a house"
+        }, 
+        {
+            "location": "/learn/tinkercad/tutorials/beginner/1-create-a-house/#create-a-house", 
+            "text": "In this tutorial you will use simple shapes to create a 3D house.", 
+            "title": "Create a house"
+        }, 
+        {
+            "location": "/learn/tinkercad/tutorials/beginner/1-create-a-house/#1-login", 
+            "text": "Open Tinkercad and login", 
+            "title": "1. Login"
+        }, 
+        {
+            "location": "/learn/tinkercad/how-to/add-shapes/", 
+            "text": "Adding shapes\n\n\nA variety of shapes can be added to  your design\n\n\n\n\nFind the required shape in the \nBasic shapes\n menu.\n\n\nDrag the shape from the menu to the workplane.", 
+            "title": "Add shapes"
+        }, 
+        {
+            "location": "/learn/tinkercad/how-to/add-shapes/#adding-shapes", 
+            "text": "A variety of shapes can be added to  your design   Find the required shape in the  Basic shapes  menu.  Drag the shape from the menu to the workplane.", 
+            "title": "Adding shapes"
+        }, 
+        {
+            "location": "/learn/tinkercad/how-to/resize/", 
+            "text": "Resizing shapes\n\n\nShapes can be resized in three ways:\n\n\nResizing with shape menu\n\n\n\n\nSelect an object; the shape menu will appear.\n\n\nSelect the dimension you want to edit.\n\n\nEnter the required value and hit the [Enter] key.\n\n\nThe shape will change size on screen.\n\n\n\n\n\n\nResizing wth shape handles\n\n\n\n\nSelect an object; the handles will appear.\n\n\nSelect a handle beside a side or point with the dimension you want to change.\n\n\nSelect a dimension to change.\n\n\nEnter the required value and hit the [Enter] key.\n\n\nThe shape will change size on screen.\n\n\n\n\n\n\nResizing by dragging\n\n\n\n\nSelect an object; the handles will appear.\n\n\nSelect a handle beside a side or point with the dimension you want to change.\n\n\nSelect a dimension to change.\n\n\nEnter the required value and hit the [Enter] key.\n\n\nThe shape will change size on screen.", 
+            "title": "Resize shapes"
+        }, 
+        {
+            "location": "/learn/tinkercad/how-to/resize/#resizing-shapes", 
+            "text": "Shapes can be resized in three ways:", 
+            "title": "Resizing shapes"
+        }, 
+        {
+            "location": "/learn/tinkercad/how-to/resize/#resizing-with-shape-menu", 
+            "text": "Select an object; the shape menu will appear.  Select the dimension you want to edit.  Enter the required value and hit the [Enter] key.  The shape will change size on screen.", 
+            "title": "Resizing with shape menu"
+        }, 
+        {
+            "location": "/learn/tinkercad/how-to/resize/#resizing-wth-shape-handles", 
+            "text": "Select an object; the handles will appear.  Select a handle beside a side or point with the dimension you want to change.  Select a dimension to change.  Enter the required value and hit the [Enter] key.  The shape will change size on screen.", 
+            "title": "Resizing wth shape handles"
+        }, 
+        {
+            "location": "/learn/tinkercad/how-to/resize/#resizing-by-dragging", 
+            "text": "Select an object; the handles will appear.  Select a handle beside a side or point with the dimension you want to change.  Select a dimension to change.  Enter the required value and hit the [Enter] key.  The shape will change size on screen.", 
+            "title": "Resizing by dragging"
         }, 
         {
             "location": "/volunteer/volunteer/", 
