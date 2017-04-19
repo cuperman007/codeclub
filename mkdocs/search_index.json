@@ -142,13 +142,23 @@
         }, 
         {
             "location": "/learn/tinkercad/tutorials/beginner/2-create-a-keyring/", 
-            "text": "Create a keyring\n\n\nComing soon!", 
+            "text": "Create a keyring\n\n\nIn this tutorial you will use simple shapes and text to create a personalised keyring.\n\n\nLogin\n\n\nOpen the \nTinkercad\n website and \nsign-in\n\n\nAdd shapes\n\n\n\n\nAdd a \nbox\n anywhere on your workplane.\n\n\n\n\nResize\n the box to the following dimensions:\n\n\n\n\nLength = \n20mm\n\n\nWidth = \n50mm\n\n\nHeight = \n5mm\n\n\n\n\n\n\n\n\n\n\nAdd a \ncylinder\n to the end of the box.\n\n\n\n\n\n\nResize\n the cylinder to \n5mm\n high.\n\n\n\n\n\n\n\n\nto be continued...", 
             "title": "Create a keyring"
         }, 
         {
             "location": "/learn/tinkercad/tutorials/beginner/2-create-a-keyring/#create-a-keyring", 
-            "text": "Coming soon!", 
+            "text": "In this tutorial you will use simple shapes and text to create a personalised keyring.", 
             "title": "Create a keyring"
+        }, 
+        {
+            "location": "/learn/tinkercad/tutorials/beginner/2-create-a-keyring/#login", 
+            "text": "Open the  Tinkercad  website and  sign-in", 
+            "title": "Login"
+        }, 
+        {
+            "location": "/learn/tinkercad/tutorials/beginner/2-create-a-keyring/#add-shapes", 
+            "text": "Add a  box  anywhere on your workplane.   Resize  the box to the following dimensions:   Length =  20mm  Width =  50mm  Height =  5mm      Add a  cylinder  to the end of the box.    Resize  the cylinder to  5mm  high.     to be continued...", 
+            "title": "Add shapes"
         }, 
         {
             "location": "/learn/tinkercad/tutorials/intermediate/3-create-a-car/", 
@@ -227,13 +237,23 @@
         }, 
         {
             "location": "/learn/tinkercad/how-to/select-shapes/", 
-            "text": "Selecting shapes\n\n\nTo select a single shape simply click it.\n\n\nTo select more than one shape either hold the SHIFT key and click each shape.  \n\n\n\n\nOr drag and select the shapes you want. All the shapes in the selection rectangle will be selected.", 
+            "text": "Selecting shapes\n\n\nMany shapes can be selected at one time.\n\n\nSHIFT + selecting\n\n\nTo select more than one shape either hold the SHIFT key and click each shape.  \n\n\n\n\nClick + drag selecting\n\n\nClick + drag and select the shapes you want. All the shapes in the selection rectangle will be selected.", 
             "title": "Select shapes"
         }, 
         {
             "location": "/learn/tinkercad/how-to/select-shapes/#selecting-shapes", 
-            "text": "To select a single shape simply click it.  To select more than one shape either hold the SHIFT key and click each shape.     Or drag and select the shapes you want. All the shapes in the selection rectangle will be selected.", 
+            "text": "Many shapes can be selected at one time.", 
             "title": "Selecting shapes"
+        }, 
+        {
+            "location": "/learn/tinkercad/how-to/select-shapes/#shift-selecting", 
+            "text": "To select more than one shape either hold the SHIFT key and click each shape.", 
+            "title": "SHIFT + selecting"
+        }, 
+        {
+            "location": "/learn/tinkercad/how-to/select-shapes/#click-drag-selecting", 
+            "text": "Click + drag and select the shapes you want. All the shapes in the selection rectangle will be selected.", 
+            "title": "Click + drag selecting"
         }, 
         {
             "location": "/learn/tinkercad/how-to/resize-shapes/", 
@@ -292,13 +312,23 @@
         }, 
         {
             "location": "/learn/tinkercad/how-to/group-shapes/", 
-            "text": "Grouping shapes\n\n\nComing soon!", 
+            "text": "Grouping shapes\n\n\nShapes can be grouped together to make more complicated shapes and models.\n\n\nCombing shapes\n\n\n\n\nSelect\n the shapes you want to combine.\n\n\nClick the Group icon (or CTRL+G) to join the shapes together.\n\n\n\n\n\n\nSubtracting shapes\n\n\n\n\nSelect\n the shapes you want to subtract.\n\n\nSelect the \nhole\n tools so this shape will be removed from another shape.\n\n\nSelect the \nhole\n and the main shape.\n\n\nClick the Group icon (or CTRL+G) to subtract the \nhole\n from the main shape.", 
             "title": "Group shapes"
         }, 
         {
             "location": "/learn/tinkercad/how-to/group-shapes/#grouping-shapes", 
-            "text": "Coming soon!", 
+            "text": "Shapes can be grouped together to make more complicated shapes and models.", 
             "title": "Grouping shapes"
+        }, 
+        {
+            "location": "/learn/tinkercad/how-to/group-shapes/#combing-shapes", 
+            "text": "Select  the shapes you want to combine.  Click the Group icon (or CTRL+G) to join the shapes together.", 
+            "title": "Combing shapes"
+        }, 
+        {
+            "location": "/learn/tinkercad/how-to/group-shapes/#subtracting-shapes", 
+            "text": "Select  the shapes you want to subtract.  Select the  hole  tools so this shape will be removed from another shape.  Select the  hole  and the main shape.  Click the Group icon (or CTRL+G) to subtract the  hole  from the main shape.", 
+            "title": "Subtracting shapes"
         }, 
         {
             "location": "/volunteer/volunteer/", 
