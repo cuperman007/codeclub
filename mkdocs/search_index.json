@@ -2,67 +2,47 @@
     "docs": [
         {
             "location": "/", 
-            "text": "Penkridge Codeclub\n\n\nPenkridge Codeclub is a registered with \nCodeclub UK\n and currently runs as an afterschool club at Marshbrook first school. The club promotes the learning of STEM subjects.\n\n\nSTEM stands for Science, Technology, Engineering and Maths.\n\n\n\n\n\n\nLearn\n\n\n\n\nHour of code\n\n\nTinkercad\n\n\n\n\n\n\n\n\nVolunteer\n\n\n\n\nSTEMNET\n\n\nCodeclub", 
+            "text": "Penkridge STEM Club\n\n\nPenkridge STEM Club currently runs as an afterschool club at Marshbrook First School and is registered with \nCodeclub UK\n. The club promotes the learning of STEM subjects.\n\n\n\n\nSTEM stands for Science, Technology, Engineering and Maths. So where do you start?\n\n\nLearn\n\n\nThere are plenty of free resources available to help you learn about STEM subjects. Here are some of our favourites.\n\n\n\n\nHour of code\n\n\nTinkercad\n\n\n\n\nVolunteer\n\n\nWe'd like to see all the children of Penkridge have the opportunity to find which aspects of STEM learning they enjoy the most. If you can spend an hour a week to help children learn and enjoy STEM activities please get in touch, or contact one of the following organistations:\n\n\n\n\nSTEMNET\n\n\nCodeclub", 
             "title": "Home"
         }, 
         {
-            "location": "/#penkridge-codeclub", 
-            "text": "Penkridge Codeclub is a registered with  Codeclub UK  and currently runs as an afterschool club at Marshbrook first school. The club promotes the learning of STEM subjects.  STEM stands for Science, Technology, Engineering and Maths.    Learn   Hour of code  Tinkercad     Volunteer   STEMNET  Codeclub", 
-            "title": "Penkridge Codeclub"
+            "location": "/#penkridge-stem-club", 
+            "text": "Penkridge STEM Club currently runs as an afterschool club at Marshbrook First School and is registered with  Codeclub UK . The club promotes the learning of STEM subjects.   STEM stands for Science, Technology, Engineering and Maths. So where do you start?", 
+            "title": "Penkridge STEM Club"
         }, 
         {
-            "location": "/learn/learn/", 
-            "text": "Learning STEM\n\n\nScience\n\n\nSorry, nothing here yet.\n\n\nTechnology\n\n\nLearn computing and programming\n\n\n\n\nHour of code\n\n\n\n\nEngineering\n\n\nSo much to learn! \n\n\n\n\nCAD - design stuff\n\n\nTinkercad\n\n\nFusion360\n\n\n\n\n\n\n3D Printing - once you've designed something, its time to make it.\n\n\n\n\nMaths\n\n\nThis is the most important part. It is the basis of everything... that said, there is still nothing here yet!", 
+            "location": "/#learn", 
+            "text": "There are plenty of free resources available to help you learn about STEM subjects. Here are some of our favourites.   Hour of code  Tinkercad", 
             "title": "Learn"
         }, 
         {
-            "location": "/learn/learn/#learning-stem", 
-            "text": "", 
-            "title": "Learning STEM"
-        }, 
-        {
-            "location": "/learn/learn/#science", 
-            "text": "Sorry, nothing here yet.", 
-            "title": "Science"
-        }, 
-        {
-            "location": "/learn/learn/#technology", 
-            "text": "Learn computing and programming   Hour of code", 
-            "title": "Technology"
-        }, 
-        {
-            "location": "/learn/learn/#engineering", 
-            "text": "So much to learn!    CAD - design stuff  Tinkercad  Fusion360    3D Printing - once you've designed something, its time to make it.", 
-            "title": "Engineering"
-        }, 
-        {
-            "location": "/learn/learn/#maths", 
-            "text": "This is the most important part. It is the basis of everything... that said, there is still nothing here yet!", 
-            "title": "Maths"
+            "location": "/#volunteer", 
+            "text": "We'd like to see all the children of Penkridge have the opportunity to find which aspects of STEM learning they enjoy the most. If you can spend an hour a week to help children learn and enjoy STEM activities please get in touch, or contact one of the following organistations:   STEMNET  Codeclub", 
+            "title": "Volunteer"
         }, 
         {
             "location": "/learn/hour-of-code/", 
-            "text": "Hour of code\n\n\nThe hour of code is a hub for numerous coding games and projects. The choice of tutorials is hugely varied and there are options available for all ages, abilities and programming languages.\n\n\nGet started here: \nhttps://code.org/learn", 
+            "text": "Hour of code\n\n\nThe \nhour of code\n is a hub for numerous games and projects centred on learning programming. The choice of tutorials is hugely varied and there are options available for all ages, abilities and programming languages.\n\n\nGet started here: \nhttps://code.org/learn", 
             "title": "Hour of code"
         }, 
         {
             "location": "/learn/hour-of-code/#hour-of-code", 
-            "text": "The hour of code is a hub for numerous coding games and projects. The choice of tutorials is hugely varied and there are options available for all ages, abilities and programming languages.  Get started here:  https://code.org/learn", 
+            "text": "The  hour of code  is a hub for numerous games and projects centred on learning programming. The choice of tutorials is hugely varied and there are options available for all ages, abilities and programming languages.  Get started here:  https://code.org/learn", 
             "title": "Hour of code"
         }, 
         {
             "location": "/learn/tinkercad/", 
-            "text": "Tinkercad\n\n\nTinkercad is a computer program used to create 3D models for computer games or printing.\n\n\nLearn\n\n\nThe following tutorials will help you learn how to use Tinkercad.\n\n\n\n\nOpen Tinkercad and \nsign up\n for an account.\n\n\nOpen Tinkercad and \nsign in\n\n\n\n\nBeginner tutorials\n\n\n\n\nCreate a house\n\n\nCreate a keyring\n\n\n\n\nIntermediate Tutorials\n\n\n\n\nCreate a car\n\n\nCreate a minion\n\n\n\n\nHow-to\n\n\n\n\nAdd shapes to my design\n\n\nZoom in and out shapes\n\n\nRotate and pan\n\n\nSelect shapes\n\n\nResize shapes\n\n\nMove shapes\n\n\nGroup shapes", 
+            "text": "Tinkercad\n\n\nTinkercad\n is a computer program used to create 3D models for computer games or printing.\n\n\n\n\nLearn\n\n\nThe following tutorials will help you learn how to use \nTinkercad\n.\n\n\n\n\nOpen \nTinkercad\n and \nsign up\n for an account.\n\n\nOpen \nTinkercad\n and \nsign in\n\n\n\n\nBeginner tutorials\n\n\n\n\nCreate a house\n\n\nCreate a keyring\n\n\n\n\nIntermediate Tutorials\n\n\n\n\nCreate a car\n\n\nCreate a minion\n\n\n\n\nHow-to\n\n\n\n\nAdd shapes\n\n\nAdd text\n\n\nAlign shapes\n\n\nChange font\n\n\nCopy and paste\n\n\nGroup shapes\n\n\nMove shapes\n\n\nMove workplane\n\n\nRotate and pan\n\n\nResize shapes\n\n\nSelect shapes\n\n\nZoom in / out", 
             "title": "Tinkercad"
         }, 
         {
             "location": "/learn/tinkercad/#tinkercad", 
-            "text": "Tinkercad is a computer program used to create 3D models for computer games or printing.", 
+            "text": "Tinkercad  is a computer program used to create 3D models for computer games or printing.", 
             "title": "Tinkercad"
         }, 
         {
             "location": "/learn/tinkercad/#learn", 
-            "text": "The following tutorials will help you learn how to use Tinkercad.   Open Tinkercad and  sign up  for an account.  Open Tinkercad and  sign in", 
+            "text": "The following tutorials will help you learn how to use  Tinkercad .   Open  Tinkercad  and  sign up  for an account.  Open  Tinkercad  and  sign in", 
             "title": "Learn"
         }, 
         {
@@ -77,7 +57,7 @@
         }, 
         {
             "location": "/learn/tinkercad/#how-to", 
-            "text": "Add shapes to my design  Zoom in and out shapes  Rotate and pan  Select shapes  Resize shapes  Move shapes  Group shapes", 
+            "text": "Add shapes  Add text  Align shapes  Change font  Copy and paste  Group shapes  Move shapes  Move workplane  Rotate and pan  Resize shapes  Select shapes  Zoom in / out", 
             "title": "How-to"
         }, 
         {
@@ -101,123 +81,238 @@
             "title": "Sign-in"
         }, 
         {
-            "location": "/learn/tinkercad/tutorials/beginner/1-create-a-house/", 
+            "location": "/learn/tinkercad/tutorials/beginner/create-a-house/", 
             "text": "Create a house\n\n\nIn this tutorial you will use simple shapes to create a 3D house.\n\n\nLogin\n\n\nOpen the \nTinkercad\n website and \nsign-in\n\n\nAdd shapes\n\n\n\n\nAdd a \nbox\n anywhere on your workplane.\n\n\n\n\nResize\n the box to the following dimensions:\n\n\n\n\nLength = \n25mm\n\n\nWidth = \n40mm\n\n\nHeight = \n30mm\n\n\n\n\n\n\n\n\n\n\nAdd a \nroof\n anywhere on your workplane.\n\n\n\n\n\n\nResize\n the roof to the following dimensions:\n\n\n\n\nLength = \n25mm\n\n\nWidth = \n40mm\n\n\nHeight = \n20mm\n\n\n\n\n\n\n\n\n\n\nAlign shapes\n\n\n\n\n\n\nAlign\n the front of the roof with the front of the box\n\n\n\n\n\n\n\n\nAlign\n the center of the roof with the center of the box\n\n\n\n\n\n\n\n\nMove roof up\n\n\n\n\nSelect the roof\n\n\n\n\nUsing the top grab arrow \nmove\n the roof up by \n30mm\n\n\n\n\n\n\n\n\nYour model is starting to look like a house already :-)\n\n\nAdd a door\n\n\n\n\nAdd a \nbox\n anywhere on your workplane.\n\n\nResize\n the box to the following dimensions:\n\n\nLength = \n2mm\n\n\nWidth = \n5mm\n\n\nHeight = \n10mm\n\n\n\n\n\n\nMove\n the new box to the middle of the front wall. Make sure the door is \ninside\n the wall.\n\n\nOn the shape menu, select the \nHole\n option.\n\n\nSelect\n both the wall and doors.\n\n\nGroup\n the wall and door. Because the door is a \nhole\n it will be subtracted from the wall. \n\n\n\n\n\n\nGet creative\n\n\nCan you add your own windows, doors and to your house?", 
             "title": "Create a house"
         }, 
         {
-            "location": "/learn/tinkercad/tutorials/beginner/1-create-a-house/#create-a-house", 
+            "location": "/learn/tinkercad/tutorials/beginner/create-a-house/#create-a-house", 
             "text": "In this tutorial you will use simple shapes to create a 3D house.", 
             "title": "Create a house"
         }, 
         {
-            "location": "/learn/tinkercad/tutorials/beginner/1-create-a-house/#login", 
+            "location": "/learn/tinkercad/tutorials/beginner/create-a-house/#login", 
             "text": "Open the  Tinkercad  website and  sign-in", 
             "title": "Login"
         }, 
         {
-            "location": "/learn/tinkercad/tutorials/beginner/1-create-a-house/#add-shapes", 
+            "location": "/learn/tinkercad/tutorials/beginner/create-a-house/#add-shapes", 
             "text": "Add a  box  anywhere on your workplane.   Resize  the box to the following dimensions:   Length =  25mm  Width =  40mm  Height =  30mm      Add a  roof  anywhere on your workplane.    Resize  the roof to the following dimensions:   Length =  25mm  Width =  40mm  Height =  20mm", 
             "title": "Add shapes"
         }, 
         {
-            "location": "/learn/tinkercad/tutorials/beginner/1-create-a-house/#align-shapes", 
+            "location": "/learn/tinkercad/tutorials/beginner/create-a-house/#align-shapes", 
             "text": "Align  the front of the roof with the front of the box     Align  the center of the roof with the center of the box", 
             "title": "Align shapes"
         }, 
         {
-            "location": "/learn/tinkercad/tutorials/beginner/1-create-a-house/#move-roof-up", 
+            "location": "/learn/tinkercad/tutorials/beginner/create-a-house/#move-roof-up", 
             "text": "Select the roof   Using the top grab arrow  move  the roof up by  30mm     Your model is starting to look like a house already :-)", 
             "title": "Move roof up"
         }, 
         {
-            "location": "/learn/tinkercad/tutorials/beginner/1-create-a-house/#add-a-door", 
+            "location": "/learn/tinkercad/tutorials/beginner/create-a-house/#add-a-door", 
             "text": "Add a  box  anywhere on your workplane.  Resize  the box to the following dimensions:  Length =  2mm  Width =  5mm  Height =  10mm    Move  the new box to the middle of the front wall. Make sure the door is  inside  the wall.  On the shape menu, select the  Hole  option.  Select  both the wall and doors.  Group  the wall and door. Because the door is a  hole  it will be subtracted from the wall.", 
             "title": "Add a door"
         }, 
         {
-            "location": "/learn/tinkercad/tutorials/beginner/1-create-a-house/#get-creative", 
+            "location": "/learn/tinkercad/tutorials/beginner/create-a-house/#get-creative", 
             "text": "Can you add your own windows, doors and to your house?", 
             "title": "Get creative"
         }, 
         {
-            "location": "/learn/tinkercad/tutorials/beginner/2-create-a-keyring/", 
-            "text": "Create a keyring\n\n\nIn this tutorial you will use simple shapes and text to create a personalised keyring.\n\n\nLogin\n\n\nOpen the \nTinkercad\n website and \nsign-in\n\n\nAdd shapes\n\n\n\n\nAdd a \nbox\n anywhere on your workplane.\n\n\n\n\nResize\n the box to the following dimensions:\n\n\n\n\nLength = \n20mm\n\n\nWidth = \n50mm\n\n\nHeight = \n5mm\n\n\n\n\n\n\n\n\n\n\nAdd a \ncylinder\n to the end of the box.\n\n\n\n\n\n\nResize\n the cylinder to \n5mm\n high.\n\n\n\n\n\n\n\n\nto be continued...", 
+            "location": "/learn/tinkercad/tutorials/beginner/create-a-keyring/", 
+            "text": "Create a keyring\n\n\nIn this tutorial you will use simple shapes and text to create a personalised key ring.\n\n\nLogin\n\n\nOpen the \nTinkercad\n website and \nsign-in\n\n\nCreate a simple key ring\n\n\n\n\nAdd a \nbox\n anywhere on your workplane.\n\n\n\n\nResize\n the box to the following dimensions:\n\n\n\n\nLength = \n20mm\n\n\nWidth = \n50mm\n\n\nHeight = \n5mm\n\n\n\n\n\n\n\n\n\n\nAdd a \ncylinder\n to the end of the box.\n\n\n\n\n\n\nResize\n the cylinder to \n5mm\n high.\n\n\n\n\n\n\n\n\nAdd another \ncylinder\n to the end of the box.\n\n\n\n\nResize\n the cylinder to \n10mm\n along each side.\n\n\nAlign\n the new cylinder to the centre of the first cylinder.\n\n\n\n\nMake the new cylinder a \nhole\n.\n\n\n\n\n\n\n\n\nGroup\n the box and the first cylinder together to make a single shape.\n\n\n\n\n\n\nGroup\n the new shape and the \nhole\n cylinder together to cut a hole through the first shape.\n\n\n\n\n\n\n\n\nThis is the simple starting point for all key rings\n\n\nDecorate your key ring\n\n\nYou can decorate your keyring with any shapes you choose. Here are some examples:\n\n\n with your name\n\n\nYou can add your name to the top of the keyring.\n\n\n\n\nMove the workplane\n so you can work on the top of your keyring.\n\n\nAdd a \ntext\n shape\n to your model and type in your name.\n\n\n\n\nResize the text\n so it fits on the key ring top.\n\n\n\n\n\n\nView the keyring from on top.\n\n\n\n\nReposition the text and \ngroup\n the keyring and the text.\n\n\n\n\n\n\nTry different \nfonts\n and \nsizes\n to find a design that you like.\n\n\n with some stars\n\n\nYou can add some other shapes to the top of the keyring.\n\n\n\n\nMove the workplane\n so you can work on the top of your keyring.\n\n\nFind other shapes in the toolbox\n\n\nAdd a \nstar\n shape\n to your model.\n\n\n\n\n\n\n\n\nResize\n the star so it fits on the key ring top.\n\n\n[Copy and paste] stars and change to the size and number of points. It's OK if the stars overlap - be creative!\n\n\n\n\n\n\n\n\nGroup\n the key ring and the stars.\n\n\n\n\n\n\n\n\nDone! \n\n\n\n\n Get creative!\n\n\nCan you come up with some creative ways to decorate your keyring?\n\n\n\n\nCut your name out instead of adding it?\n\n\nYour favourite team or TV show?", 
             "title": "Create a keyring"
         }, 
         {
-            "location": "/learn/tinkercad/tutorials/beginner/2-create-a-keyring/#create-a-keyring", 
-            "text": "In this tutorial you will use simple shapes and text to create a personalised keyring.", 
+            "location": "/learn/tinkercad/tutorials/beginner/create-a-keyring/#create-a-keyring", 
+            "text": "In this tutorial you will use simple shapes and text to create a personalised key ring.", 
             "title": "Create a keyring"
         }, 
         {
-            "location": "/learn/tinkercad/tutorials/beginner/2-create-a-keyring/#login", 
+            "location": "/learn/tinkercad/tutorials/beginner/create-a-keyring/#login", 
             "text": "Open the  Tinkercad  website and  sign-in", 
             "title": "Login"
         }, 
         {
-            "location": "/learn/tinkercad/tutorials/beginner/2-create-a-keyring/#add-shapes", 
-            "text": "Add a  box  anywhere on your workplane.   Resize  the box to the following dimensions:   Length =  20mm  Width =  50mm  Height =  5mm      Add a  cylinder  to the end of the box.    Resize  the cylinder to  5mm  high.     to be continued...", 
-            "title": "Add shapes"
+            "location": "/learn/tinkercad/tutorials/beginner/create-a-keyring/#create-a-simple-key-ring", 
+            "text": "Add a  box  anywhere on your workplane.   Resize  the box to the following dimensions:   Length =  20mm  Width =  50mm  Height =  5mm      Add a  cylinder  to the end of the box.    Resize  the cylinder to  5mm  high.     Add another  cylinder  to the end of the box.   Resize  the cylinder to  10mm  along each side.  Align  the new cylinder to the centre of the first cylinder.   Make the new cylinder a  hole .     Group  the box and the first cylinder together to make a single shape.    Group  the new shape and the  hole  cylinder together to cut a hole through the first shape.     This is the simple starting point for all key rings", 
+            "title": "Create a simple key ring"
         }, 
         {
-            "location": "/learn/tinkercad/tutorials/intermediate/3-create-a-car/", 
+            "location": "/learn/tinkercad/tutorials/beginner/create-a-keyring/#decorate-your-key-ring", 
+            "text": "You can decorate your keyring with any shapes you choose. Here are some examples:", 
+            "title": "Decorate your key ring"
+        }, 
+        {
+            "location": "/learn/tinkercad/tutorials/beginner/create-a-keyring/#with-your-name", 
+            "text": "You can add your name to the top of the keyring.   Move the workplane  so you can work on the top of your keyring.  Add a  text  shape  to your model and type in your name.   Resize the text  so it fits on the key ring top.    View the keyring from on top.   Reposition the text and  group  the keyring and the text.    Try different  fonts  and  sizes  to find a design that you like.", 
+            "title": "with your name"
+        }, 
+        {
+            "location": "/learn/tinkercad/tutorials/beginner/create-a-keyring/#with-some-stars", 
+            "text": "You can add some other shapes to the top of the keyring.   Move the workplane  so you can work on the top of your keyring.  Find other shapes in the toolbox  Add a  star  shape  to your model.     Resize  the star so it fits on the key ring top.  [Copy and paste] stars and change to the size and number of points. It's OK if the stars overlap - be creative!     Group  the key ring and the stars.     Done!", 
+            "title": "with some stars"
+        }, 
+        {
+            "location": "/learn/tinkercad/tutorials/beginner/create-a-keyring/#get-creative", 
+            "text": "Can you come up with some creative ways to decorate your keyring?   Cut your name out instead of adding it?  Your favourite team or TV show?", 
+            "title": "Get creative!"
+        }, 
+        {
+            "location": "/learn/tinkercad/tutorials/intermediate/create-a-car/", 
             "text": "Create a car\n\n\nComing soon!", 
             "title": "Create a house"
         }, 
         {
-            "location": "/learn/tinkercad/tutorials/intermediate/3-create-a-car/#create-a-car", 
+            "location": "/learn/tinkercad/tutorials/intermediate/create-a-car/#create-a-car", 
             "text": "Coming soon!", 
             "title": "Create a car"
         }, 
         {
-            "location": "/learn/tinkercad/tutorials/intermediate/4-create-a-minion/", 
+            "location": "/learn/tinkercad/tutorials/intermediate/create-a-minion/", 
             "text": "Create a minion\n\n\nComing soon!", 
             "title": "Create a keyring"
         }, 
         {
-            "location": "/learn/tinkercad/tutorials/intermediate/4-create-a-minion/#create-a-minion", 
+            "location": "/learn/tinkercad/tutorials/intermediate/create-a-minion/#create-a-minion", 
             "text": "Coming soon!", 
             "title": "Create a minion"
         }, 
         {
             "location": "/learn/tinkercad/how-to/add-shapes/", 
-            "text": "Adding shapes\n\n\nA variety of shapes can be added to  your design\n\n\n\n\nFind the required shape in the \nBasic shapes\n menu.\n\n\nDrag the shape from the menu to the workplane.\n\n\nThe shape will be positioned on the workplane.", 
+            "text": "Adding shapes\n\n\nMany different shapes can be added to  your design.\n\n\n\n\nFind the required shape in the \nBasic shapes\n menu.\n\n\nDrag the shape from the menu to the workplane.\n\n\nThe shape will be positioned on the \nworkplane\n.\n\n\n\n\n\n\nDifferent shapes\n\n\n\n\nBasic shapes\n\n\nBox\n\n\nCylinder\n\n\nRoof\n\n\nWedge\n\n\nText", 
             "title": "Add shapes"
         }, 
         {
             "location": "/learn/tinkercad/how-to/add-shapes/#adding-shapes", 
-            "text": "A variety of shapes can be added to  your design   Find the required shape in the  Basic shapes  menu.  Drag the shape from the menu to the workplane.  The shape will be positioned on the workplane.", 
+            "text": "Many different shapes can be added to  your design.   Find the required shape in the  Basic shapes  menu.  Drag the shape from the menu to the workplane.  The shape will be positioned on the  workplane .", 
             "title": "Adding shapes"
         }, 
         {
-            "location": "/learn/tinkercad/how-to/zoom-in-and-out/", 
-            "text": "Zooming in and out\n\n\nWhen you want to change the size of your design in the view space you will need to \nzoom in\n or \nzoom out\n.\n\n\nZoom in\n\n\nWhen you want to view your design a bit closer you'll need to \nzoom in\n. When you zoom in you will see more details, but you might not see everything at once.\n\n\nZoom out\n\n\nWhen you want to view more of your design you'll need to \nzoom out\n. When you zoom out you will see less of your designs details, but you will see more design at one time. \n\n\nFit all in view\n\n\nYou can use the \nFit all in view\n command to automatically zoom in or out to fit your whole model on the screen.", 
-            "title": "Zoom in / out"
+            "location": "/learn/tinkercad/how-to/add-shapes/#different-shapes", 
+            "text": "Basic shapes  Box  Cylinder  Roof  Wedge  Text", 
+            "title": "Different shapes"
         }, 
         {
-            "location": "/learn/tinkercad/how-to/zoom-in-and-out/#zooming-in-and-out", 
-            "text": "When you want to change the size of your design in the view space you will need to  zoom in  or  zoom out .", 
-            "title": "Zooming in and out"
+            "location": "/learn/tinkercad/how-to/add-text/", 
+            "text": "Add text\n\n\n\n\nOn the \nBasic shapes\n toolbox, scroll down to find \nText\n shape.\n\n\nDrag and drop the text shape onto the \nworkplane\n\n\n\n\n\n\nChange text\n\n\n\n\nSelect\n the text shape. \n\n\nOn the shape toolbox select the \ntext\n textbox.\n\n\nEnter your name into the textbox.\n\n\nZoom to fit\n your new text.", 
+            "title": "Add text"
         }, 
         {
-            "location": "/learn/tinkercad/how-to/zoom-in-and-out/#zoom-in", 
-            "text": "When you want to view your design a bit closer you'll need to  zoom in . When you zoom in you will see more details, but you might not see everything at once.", 
-            "title": "Zoom in"
+            "location": "/learn/tinkercad/how-to/add-text/#add-text", 
+            "text": "On the  Basic shapes  toolbox, scroll down to find  Text  shape.  Drag and drop the text shape onto the  workplane", 
+            "title": "Add text"
         }, 
         {
-            "location": "/learn/tinkercad/how-to/zoom-in-and-out/#zoom-out", 
-            "text": "When you want to view more of your design you'll need to  zoom out . When you zoom out you will see less of your designs details, but you will see more design at one time.", 
-            "title": "Zoom out"
+            "location": "/learn/tinkercad/how-to/add-text/#change-text", 
+            "text": "Select  the text shape.   On the shape toolbox select the  text  textbox.  Enter your name into the textbox.  Zoom to fit  your new text.", 
+            "title": "Change text"
         }, 
         {
-            "location": "/learn/tinkercad/how-to/zoom-in-and-out/#fit-all-in-view", 
-            "text": "You can use the  Fit all in view  command to automatically zoom in or out to fit your whole model on the screen.", 
-            "title": "Fit all in view"
+            "location": "/learn/tinkercad/how-to/align-shapes/", 
+            "text": "Aligning shapes\n\n\nWhen you have more than one shape in your workspace you might need to align them.\n\n\nShapes can be aligned in a number of different ways:\n\n\n\n\nLeft to right\n\n\nTop to bottom\n\n\nBack to front\n\n\n\n\netc\n\n\n\n\n\n\nAdd two shapes to your workplane.\n\n\n\n\nShift select both shapes.\n\n\nSelect the \nAlign\n tool.\n\n\n\n\nHelper controls will appear on each shape. These controls will help you to align your shapes\n\n\n\n\n\n\nSelect alignment guides on each shape to align your shapes in different ways.\n\n\nUse the \nundo\n tool to step back to try different alignments.", 
+            "title": "Align shapes"
+        }, 
+        {
+            "location": "/learn/tinkercad/how-to/align-shapes/#aligning-shapes", 
+            "text": "When you have more than one shape in your workspace you might need to align them.  Shapes can be aligned in a number of different ways:   Left to right  Top to bottom  Back to front   etc    Add two shapes to your workplane.   Shift select both shapes.  Select the  Align  tool.   Helper controls will appear on each shape. These controls will help you to align your shapes    Select alignment guides on each shape to align your shapes in different ways.  Use the  undo  tool to step back to try different alignments.", 
+            "title": "Aligning shapes"
+        }, 
+        {
+            "location": "/learn/tinkercad/how-to/change-font/", 
+            "text": "Change text fonts\n\n\n\n\nSelect\n the text shape. \n\n\nOn the shape toolbox select the font drop down and choose a font that you like.\n\n\n\n\n\n\nResize text\n\n\n\n\nSelect\n the text shape. \n\n\nUsing the handles on the sides and top, drag to resize the text to fit.", 
+            "title": "Change font"
+        }, 
+        {
+            "location": "/learn/tinkercad/how-to/change-font/#change-text-fonts", 
+            "text": "Select  the text shape.   On the shape toolbox select the font drop down and choose a font that you like.", 
+            "title": "Change text fonts"
+        }, 
+        {
+            "location": "/learn/tinkercad/how-to/change-font/#resize-text", 
+            "text": "Select  the text shape.   Using the handles on the sides and top, drag to resize the text to fit.", 
+            "title": "Resize text"
+        }, 
+        {
+            "location": "/learn/tinkercad/how-to/copy-and-paste-shapes/", 
+            "text": "Copy and paste\n\n\nYou can make copies of any of your shapes (including \ngroups of shapes\n).\n\n\n\n\nCopy (CTRL+C) and paste (CTRL+V) works in most computer programs!\n\n\n\n\nCopy\n\n\n\n\nSelect\n a shape.\n\n\nClick the copy tool (or CTRL+C).\n\n\n\n\nPaste\n\n\nPasting\n a shape will create a new copy.\n\n\n\n\nAfter copying a shape click the paste tool (or CTRL+V).", 
+            "title": "Copy and paste"
+        }, 
+        {
+            "location": "/learn/tinkercad/how-to/copy-and-paste-shapes/#copy-and-paste", 
+            "text": "You can make copies of any of your shapes (including  groups of shapes ).   Copy (CTRL+C) and paste (CTRL+V) works in most computer programs!", 
+            "title": "Copy and paste"
+        }, 
+        {
+            "location": "/learn/tinkercad/how-to/copy-and-paste-shapes/#copy", 
+            "text": "Select  a shape.  Click the copy tool (or CTRL+C).", 
+            "title": "Copy"
+        }, 
+        {
+            "location": "/learn/tinkercad/how-to/copy-and-paste-shapes/#paste", 
+            "text": "Pasting  a shape will create a new copy.   After copying a shape click the paste tool (or CTRL+V).", 
+            "title": "Paste"
+        }, 
+        {
+            "location": "/learn/tinkercad/how-to/group-shapes/", 
+            "text": "Grouping shapes\n\n\nShapes can be grouped together to make more complicated shapes and models.\n\n\nCombing shapes\n\n\n\n\nSelect\n the shapes you want to combine.\n\n\nClick the Group icon (or CTRL+G) to join the shapes together.\n\n\n\n\n\n\nSubtracting shapes\n\n\n\n\nSelect\n the shapes you want to subtract.\n\n\nSelect the \nhole\n tools so this shape will be removed from another shape.\n\n\nSelect the \nhole\n and the main shape.\n\n\nClick the Group icon (or CTRL+G) to subtract the \nhole\n from the main shape.", 
+            "title": "Group shapes"
+        }, 
+        {
+            "location": "/learn/tinkercad/how-to/group-shapes/#grouping-shapes", 
+            "text": "Shapes can be grouped together to make more complicated shapes and models.", 
+            "title": "Grouping shapes"
+        }, 
+        {
+            "location": "/learn/tinkercad/how-to/group-shapes/#combing-shapes", 
+            "text": "Select  the shapes you want to combine.  Click the Group icon (or CTRL+G) to join the shapes together.", 
+            "title": "Combing shapes"
+        }, 
+        {
+            "location": "/learn/tinkercad/how-to/group-shapes/#subtracting-shapes", 
+            "text": "Select  the shapes you want to subtract.  Select the  hole  tools so this shape will be removed from another shape.  Select the  hole  and the main shape.  Click the Group icon (or CTRL+G) to subtract the  hole  from the main shape.", 
+            "title": "Subtracting shapes"
+        }, 
+        {
+            "location": "/learn/tinkercad/how-to/move-shapes/", 
+            "text": "Moving shapes\n\n\nAfter dropping your shape on to the workplane you can move it to a different location using the move tool.\n\n\nShapes can be moved in a number of different directions:\n\n\n\n\nLeft and right (x-axis)\n\n\nForwards and backwards (y-axis)\n\n\nUp and down (z-axis)\n\n\n\n\nArrow keys\n\n\n\n\nAdd a shape\n to your workplane.\n\n\nSelect the shape.\n\n\nUse the arrow keys to move the shape\n\n\nUp / down arrow - to move the shape forwards and backwards.\n\n\nLeft / right arrow - to move the shape left and right.\n\n\nCTRL + up/down arrow - to move the shape up and down.\n\n\n\n\n\n\n\n\n\n\nClick and drag\n\n\n\n\nAdd a shape\n to your workplane.\n\n\nSelect the shape.\n\n\nClick and drag the shape.\n\n\nUse the arrow handle to move the shape up and down.\n\n\nType a value into the dimension box if needed.", 
+            "title": "Move shapes"
+        }, 
+        {
+            "location": "/learn/tinkercad/how-to/move-shapes/#moving-shapes", 
+            "text": "After dropping your shape on to the workplane you can move it to a different location using the move tool.  Shapes can be moved in a number of different directions:   Left and right (x-axis)  Forwards and backwards (y-axis)  Up and down (z-axis)", 
+            "title": "Moving shapes"
+        }, 
+        {
+            "location": "/learn/tinkercad/how-to/move-shapes/#arrow-keys", 
+            "text": "Add a shape  to your workplane.  Select the shape.  Use the arrow keys to move the shape  Up / down arrow - to move the shape forwards and backwards.  Left / right arrow - to move the shape left and right.  CTRL + up/down arrow - to move the shape up and down.", 
+            "title": "Arrow keys"
+        }, 
+        {
+            "location": "/learn/tinkercad/how-to/move-shapes/#click-and-drag", 
+            "text": "Add a shape  to your workplane.  Select the shape.  Click and drag the shape.  Use the arrow handle to move the shape up and down.  Type a value into the dimension box if needed.", 
+            "title": "Click and drag"
+        }, 
+        {
+            "location": "/learn/tinkercad/how-to/move-the-workplane/", 
+            "text": "Move the workplane\n\n\nWhen you \nadd shapes\n to your deisgn they will always be placed on the workplane.\n\n\nIf you want to place shapes somewhere different, you can move the work plane\n\n\n\n\nDrag the workplance icon onto any surface on any shape - the workplane will be moved to match the face and change color. \n\n\n\n\n\n\nAdding shapes to the workplane\n\n\n\n\nAny new shapes will be \nland\n on the workplane.", 
+            "title": "Move workplane"
+        }, 
+        {
+            "location": "/learn/tinkercad/how-to/move-the-workplane/#move-the-workplane", 
+            "text": "When you  add shapes  to your deisgn they will always be placed on the workplane.  If you want to place shapes somewhere different, you can move the work plane   Drag the workplance icon onto any surface on any shape - the workplane will be moved to match the face and change color.", 
+            "title": "Move the workplane"
+        }, 
+        {
+            "location": "/learn/tinkercad/how-to/move-the-workplane/#adding-shapes-to-the-workplane", 
+            "text": "Any new shapes will be  land  on the workplane.", 
+            "title": "Adding shapes to the workplane"
         }, 
         {
             "location": "/learn/tinkercad/how-to/rotate-and-pan/", 
-            "text": "Rotating and panning\n\n\nWhen you want to change the way that you are looking at your design you'll need to use the \nrotate\n or \npan\n commands.\n\n\nRotate\n\n\nWhen you want to see a different side of your design use the rotate option. There are various different ways to rotate your design:\n\n\n\n\nUse the view cube.\n\n\nMouse click + drag.\n\n\n\n\nPan\n\n\nWhen you want to see a different part of your design, but don't want to \nrotate\n you can use the \nPan\n command. There are various different ways to pan your design:\n\n\n\n\nUse the pan command.\n\n\nMouse click + drag.", 
+            "text": "Rotating and panning\n\n\nWhen you want to change the way that you are looking at your design you'll need to use the \nrotate\n or \npan\n commands.\n\n\nRotate\n\n\nWhen you want to see a different side of your design use the rotate option. There are various different ways to rotate your design:\n\n\n\n\nTODO: Use the view cube.\n\n\nTODO: Mouse click + drag.\n\n\n\n\nPan\n\n\nWhen you want to see a different part of your design, but don't want to \nrotate\n you can use the \nPan\n command. There are various different ways to pan your design:\n\n\n\n\nTODO: Use the pan command.\n\n\nTODO: Mouse click + drag.", 
             "title": "Rotate and pan"
         }, 
         {
@@ -227,33 +322,13 @@
         }, 
         {
             "location": "/learn/tinkercad/how-to/rotate-and-pan/#rotate", 
-            "text": "When you want to see a different side of your design use the rotate option. There are various different ways to rotate your design:   Use the view cube.  Mouse click + drag.", 
+            "text": "When you want to see a different side of your design use the rotate option. There are various different ways to rotate your design:   TODO: Use the view cube.  TODO: Mouse click + drag.", 
             "title": "Rotate"
         }, 
         {
             "location": "/learn/tinkercad/how-to/rotate-and-pan/#pan", 
-            "text": "When you want to see a different part of your design, but don't want to  rotate  you can use the  Pan  command. There are various different ways to pan your design:   Use the pan command.  Mouse click + drag.", 
+            "text": "When you want to see a different part of your design, but don't want to  rotate  you can use the  Pan  command. There are various different ways to pan your design:   TODO: Use the pan command.  TODO: Mouse click + drag.", 
             "title": "Pan"
-        }, 
-        {
-            "location": "/learn/tinkercad/how-to/select-shapes/", 
-            "text": "Selecting shapes\n\n\nMany shapes can be selected at one time.\n\n\nSHIFT + selecting\n\n\nTo select more than one shape either hold the SHIFT key and click each shape.  \n\n\n\n\nClick + drag selecting\n\n\nClick + drag and select the shapes you want. All the shapes in the selection rectangle will be selected.", 
-            "title": "Select shapes"
-        }, 
-        {
-            "location": "/learn/tinkercad/how-to/select-shapes/#selecting-shapes", 
-            "text": "Many shapes can be selected at one time.", 
-            "title": "Selecting shapes"
-        }, 
-        {
-            "location": "/learn/tinkercad/how-to/select-shapes/#shift-selecting", 
-            "text": "To select more than one shape either hold the SHIFT key and click each shape.", 
-            "title": "SHIFT + selecting"
-        }, 
-        {
-            "location": "/learn/tinkercad/how-to/select-shapes/#click-drag-selecting", 
-            "text": "Click + drag and select the shapes you want. All the shapes in the selection rectangle will be selected.", 
-            "title": "Click + drag selecting"
         }, 
         {
             "location": "/learn/tinkercad/how-to/resize-shapes/", 
@@ -281,54 +356,49 @@
             "title": "Resizing by dragging"
         }, 
         {
-            "location": "/learn/tinkercad/how-to/move-shapes/", 
-            "text": "Moving shapes\n\n\nAfter dropping your shape on to the workplane you can move it to a different location using the move tool.\n\n\nShapes can be moved in a number of different directions:\n\n\n\n\nLeft and right (x-axis)\n\n\nForwards and backwards (y-axis)\n\n\nUp and down (z-axis)\n\n\n\n\nArrow keys\n\n\n\n\nAdd a shape\n to your workplane.\n\n\nSelect the shape.\n\n\nUse the arrow keys to move the shape\n\n\nUp / down arrow - to move the shape forwards and backwards.\n\n\nLeft / right arrow - to move the shape left and right.\n\n\nCTRL + up/down arrow - to move the shape up and down.\n\n\n\n\n\n\n\n\n\n\nClick and drag\n\n\n\n\nAdd a shape\n to your workplane.\n\n\nSelect the shape.\n\n\nClick and drag the shape.\n\n\nUse the arrow handle to move the shape up and down.\n\n\nType a value into the dimension box if needed.", 
-            "title": "Move shapes"
+            "location": "/learn/tinkercad/how-to/select-shapes/", 
+            "text": "Selecting shapes\n\n\nMany shapes can be selected at one time.\n\n\nSHIFT + selecting\n\n\nTo select more than one shape either hold the SHIFT key and click each shape.  \n\n\n\n\nClick + drag selecting\n\n\nClick + drag and select the shapes you want. All the shapes in the selection rectangle will be selected.", 
+            "title": "Select shapes"
         }, 
         {
-            "location": "/learn/tinkercad/how-to/move-shapes/#moving-shapes", 
-            "text": "After dropping your shape on to the workplane you can move it to a different location using the move tool.  Shapes can be moved in a number of different directions:   Left and right (x-axis)  Forwards and backwards (y-axis)  Up and down (z-axis)", 
-            "title": "Moving shapes"
+            "location": "/learn/tinkercad/how-to/select-shapes/#selecting-shapes", 
+            "text": "Many shapes can be selected at one time.", 
+            "title": "Selecting shapes"
         }, 
         {
-            "location": "/learn/tinkercad/how-to/move-shapes/#arrow-keys", 
-            "text": "Add a shape  to your workplane.  Select the shape.  Use the arrow keys to move the shape  Up / down arrow - to move the shape forwards and backwards.  Left / right arrow - to move the shape left and right.  CTRL + up/down arrow - to move the shape up and down.", 
-            "title": "Arrow keys"
+            "location": "/learn/tinkercad/how-to/select-shapes/#shift-selecting", 
+            "text": "To select more than one shape either hold the SHIFT key and click each shape.", 
+            "title": "SHIFT + selecting"
         }, 
         {
-            "location": "/learn/tinkercad/how-to/move-shapes/#click-and-drag", 
-            "text": "Add a shape  to your workplane.  Select the shape.  Click and drag the shape.  Use the arrow handle to move the shape up and down.  Type a value into the dimension box if needed.", 
-            "title": "Click and drag"
+            "location": "/learn/tinkercad/how-to/select-shapes/#click-drag-selecting", 
+            "text": "Click + drag and select the shapes you want. All the shapes in the selection rectangle will be selected.", 
+            "title": "Click + drag selecting"
         }, 
         {
-            "location": "/learn/tinkercad/how-to/align-shapes/", 
-            "text": "Aligning shapes\n\n\nWhen you have more than one shape in your workspace you might need to align them.\n\n\nShapes can be aligned in a number of different ways:\n\n\n\n\nLeft to right\n\n\nTop to bottom\n\n\nBack to front\n\n\n\n\netc\n\n\n\n\n\n\nAdd two shapes to your workplane.\n\n\n\n\nShift select both shapes.\n\n\nSelect the \nAlign\n tool.\n\n\n\n\nHelper controls will appear on each shape. These controls will help you to align your shapes\n\n\n\n\n\n\nSelect alignment guides on each shape to align your shapes in different ways.\n\n\nUse the \nundo\n tool to step back to try different alignments.", 
-            "title": "Align shapes"
+            "location": "/learn/tinkercad/how-to/zoom-in-and-out/", 
+            "text": "Zooming in and out\n\n\nWhen you want to change the size of your design in the view space you will need to \nzoom in\n or \nzoom out\n.\n\n\nZoom in\n\n\nWhen you want to view your design a bit closer you'll need to \nzoom in\n. When you zoom in you will see more details, but you might not see everything at once.\n\n\nZoom out\n\n\nWhen you want to view more of your design you'll need to \nzoom out\n. When you zoom out you will see less of your designs details, but you will see more design at one time. \n\n\nFit all in view\n\n\nYou can use the \nFit all in view\n command to automatically zoom in or out to fit your whole model on the screen.", 
+            "title": "Zoom in / out"
         }, 
         {
-            "location": "/learn/tinkercad/how-to/align-shapes/#aligning-shapes", 
-            "text": "When you have more than one shape in your workspace you might need to align them.  Shapes can be aligned in a number of different ways:   Left to right  Top to bottom  Back to front   etc    Add two shapes to your workplane.   Shift select both shapes.  Select the  Align  tool.   Helper controls will appear on each shape. These controls will help you to align your shapes    Select alignment guides on each shape to align your shapes in different ways.  Use the  undo  tool to step back to try different alignments.", 
-            "title": "Aligning shapes"
+            "location": "/learn/tinkercad/how-to/zoom-in-and-out/#zooming-in-and-out", 
+            "text": "When you want to change the size of your design in the view space you will need to  zoom in  or  zoom out .", 
+            "title": "Zooming in and out"
         }, 
         {
-            "location": "/learn/tinkercad/how-to/group-shapes/", 
-            "text": "Grouping shapes\n\n\nShapes can be grouped together to make more complicated shapes and models.\n\n\nCombing shapes\n\n\n\n\nSelect\n the shapes you want to combine.\n\n\nClick the Group icon (or CTRL+G) to join the shapes together.\n\n\n\n\n\n\nSubtracting shapes\n\n\n\n\nSelect\n the shapes you want to subtract.\n\n\nSelect the \nhole\n tools so this shape will be removed from another shape.\n\n\nSelect the \nhole\n and the main shape.\n\n\nClick the Group icon (or CTRL+G) to subtract the \nhole\n from the main shape.", 
-            "title": "Group shapes"
+            "location": "/learn/tinkercad/how-to/zoom-in-and-out/#zoom-in", 
+            "text": "When you want to view your design a bit closer you'll need to  zoom in . When you zoom in you will see more details, but you might not see everything at once.", 
+            "title": "Zoom in"
         }, 
         {
-            "location": "/learn/tinkercad/how-to/group-shapes/#grouping-shapes", 
-            "text": "Shapes can be grouped together to make more complicated shapes and models.", 
-            "title": "Grouping shapes"
+            "location": "/learn/tinkercad/how-to/zoom-in-and-out/#zoom-out", 
+            "text": "When you want to view more of your design you'll need to  zoom out . When you zoom out you will see less of your designs details, but you will see more design at one time.", 
+            "title": "Zoom out"
         }, 
         {
-            "location": "/learn/tinkercad/how-to/group-shapes/#combing-shapes", 
-            "text": "Select  the shapes you want to combine.  Click the Group icon (or CTRL+G) to join the shapes together.", 
-            "title": "Combing shapes"
-        }, 
-        {
-            "location": "/learn/tinkercad/how-to/group-shapes/#subtracting-shapes", 
-            "text": "Select  the shapes you want to subtract.  Select the  hole  tools so this shape will be removed from another shape.  Select the  hole  and the main shape.  Click the Group icon (or CTRL+G) to subtract the  hole  from the main shape.", 
-            "title": "Subtracting shapes"
+            "location": "/learn/tinkercad/how-to/zoom-in-and-out/#fit-all-in-view", 
+            "text": "You can use the  Fit all in view  command to automatically zoom in or out to fit your whole model on the screen.", 
+            "title": "Fit all in view"
         }, 
         {
             "location": "/volunteer/volunteer/", 
