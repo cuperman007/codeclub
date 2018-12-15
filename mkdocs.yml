@@ -1,0 +1,62 @@
+# Project information
+site_name: Penkridge STEM Club
+site_description: Penkridge Code and STEM Club
+site_author: Mark Cooper
+site_url: http://cuperman007.github.io/codeclub/
+
+# Repository
+repo_name: cuperman007/codeclub
+repo_url: https://github.com/cuperman007/codeclub
+
+# Copyright
+copyright: 'Copyright &copy; 2016 Mark Cooper'
+
+# Theme directory
+theme: 'material'
+
+# Options
+extra:
+  feature:
+    tabs: false
+  palette:
+    primary: Green
+    accent: Amber
+
+
+# Extensions
+markdown_extensions:
+  - markdown.extensions.admonition
+  - pymdownx.emoji:
+      emoji_generator: !!python/name:pymdownx.emoji.to_svg
+
+
+# Page tree
+pages:
+  - Home: index.md
+  - Learn:
+    - Hour of code: 'learn/hour-of-code.md'
+    - Tinkercad:
+      - Tinkercad: 'learn/tinkercad.md'
+      - Tutorials:
+        - Setup:
+          - Register / login: 'learn/tinkercad/tutorials/setup/register-and-login.md'
+        - Beginner: 
+          - Create a house: 'learn/tinkercad/tutorials/beginner/create-a-house.md'
+          - Create a keyring: 'learn/tinkercad/tutorials/beginner/create-a-keyring.md'
+        - Intermediate: 
+          - Create a house: 'learn/tinkercad/tutorials/intermediate/create-a-car.md'
+          - Create a keyring: 'learn/tinkercad/tutorials/intermediate/create-a-minion.md'
+      - How To:
+        - Add shapes: 'learn/tinkercad/how-to/add-shapes.md'
+        - Add text: 'learn/tinkercad/how-to/add-text.md'
+        - Align shapes: 'learn/tinkercad/how-to/align-shapes.md'
+        - Change font: 'learn/tinkercad/how-to/change-font.md'
+        - Copy and paste: 'learn/tinkercad/how-to/copy-and-paste-shapes.md'
+        - Group shapes: 'learn/tinkercad/how-to/group-shapes.md'
+        - Move shapes: 'learn/tinkercad/how-to/move-shapes.md'
+        - Move workplane: 'learn/tinkercad/how-to/move-the-workplane.md'
+        - Rotate and pan: 'learn/tinkercad/how-to/rotate-and-pan.md'
+        - Resize shapes: 'learn/tinkercad/how-to/resize-shapes.md'
+        - Select shapes: 'learn/tinkercad/how-to/select-shapes.md'
+        - Zoom in / out: 'learn/tinkercad/how-to/zoom-in-and-out.md'
+  - Volunteer: 'volunteer/volunteer.md'
