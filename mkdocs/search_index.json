@@ -22,13 +22,18 @@
         }, 
         {
             "location": "/learn/hour-of-code/", 
-            "text": "Hour of code\n\n\nThe \nhour of code\n is a hub for numerous games and projects centred on learning programming. The choice of tutorials is hugely varied and there are options available for all ages, abilities and programming languages.\n\n\nGet started here: \nhttps://code.org/learn", 
+            "text": "Hour of code\n\n\nThe \nhour of code\n is a hub for numerous games and projects centred on learning programming. The choice of tutorials is hugely varied and there are options available for all ages, abilities and programming languages.\n\n\nGet started here: \nhttps://code.org/learn\n\n\nContributions\n\n\nYou can contribute to this page here: \nhttps://github.com/cuperman007/codeclub", 
             "title": "Hour of code"
         }, 
         {
             "location": "/learn/hour-of-code/#hour-of-code", 
             "text": "The  hour of code  is a hub for numerous games and projects centred on learning programming. The choice of tutorials is hugely varied and there are options available for all ages, abilities and programming languages.  Get started here:  https://code.org/learn", 
             "title": "Hour of code"
+        }, 
+        {
+            "location": "/learn/hour-of-code/#contributions", 
+            "text": "You can contribute to this page here:  https://github.com/cuperman007/codeclub", 
+            "title": "Contributions"
         }, 
         {
             "location": "/learn/tinkercad/", 
@@ -162,22 +167,22 @@
         }, 
         {
             "location": "/learn/tinkercad/tutorials/intermediate/create-a-car/", 
-            "text": "Create a car\n\n\nComing soon!", 
+            "text": "Create a car\n\n\nHelp needed! You can contribute to this page here: \nhttps://github.com/cuperman007/codeclub", 
             "title": "Create a house"
         }, 
         {
             "location": "/learn/tinkercad/tutorials/intermediate/create-a-car/#create-a-car", 
-            "text": "Coming soon!", 
+            "text": "Help needed! You can contribute to this page here:  https://github.com/cuperman007/codeclub", 
             "title": "Create a car"
         }, 
         {
             "location": "/learn/tinkercad/tutorials/intermediate/create-a-minion/", 
-            "text": "Create a minion\n\n\nComing soon!", 
+            "text": "Create a minion\n\n\nHelp needed! You can contribute to this page here: \nhttps://github.com/cuperman007/codeclub", 
             "title": "Create a keyring"
         }, 
         {
             "location": "/learn/tinkercad/tutorials/intermediate/create-a-minion/#create-a-minion", 
-            "text": "Coming soon!", 
+            "text": "Help needed! You can contribute to this page here:  https://github.com/cuperman007/codeclub", 
             "title": "Create a minion"
         }, 
         {
@@ -402,13 +407,18 @@
         }, 
         {
             "location": "/volunteer/volunteer/", 
-            "text": "Volunteer\n\n\nOur code club, and indeed all code clubs always need volunteers. \n\n\nSo, if you want to help please step up :-)", 
+            "text": "Volunteer\n\n\nAll code clubs rely on volunteers. If you would like to get involved please email cuperman007@gmail.com.\n\n\nHow can you help\n\n\n\n\nSign-up as a volunteer at \nhttps://codeclub.org/en/get-involved\n\n\nContribute to these docs. We're looking for articles, aimed at children aged 7-13 on the following subjects;\n\n\nScratch\n\n\nRaspberry Pi\n\n\nArduino\n\n\nHTML", 
             "title": "Volunteer"
         }, 
         {
             "location": "/volunteer/volunteer/#volunteer", 
-            "text": "Our code club, and indeed all code clubs always need volunteers.   So, if you want to help please step up :-)", 
+            "text": "All code clubs rely on volunteers. If you would like to get involved please email cuperman007@gmail.com.", 
             "title": "Volunteer"
+        }, 
+        {
+            "location": "/volunteer/volunteer/#how-can-you-help", 
+            "text": "Sign-up as a volunteer at  https://codeclub.org/en/get-involved  Contribute to these docs. We're looking for articles, aimed at children aged 7-13 on the following subjects;  Scratch  Raspberry Pi  Arduino  HTML", 
+            "title": "How can you help"
         }
     ]
 }
